@@ -1,2 +1,3 @@
 # Conferences-Slides
-Slides from conferences where I have spoken
+Enclodes the slides from presentation on which I had spoke. 
+
